@@ -1,0 +1,3 @@
+﻿  Exercise3.cpp
+c:\users\noah\source\repos\cis100_lab1-2\exercise3\exercise3.cpp(34): warning C4307: '*': integral constant overflow
+  Exercise3.vcxproj -> C:\Users\Noah\source\repos\CIS100_Lab1-2\Debug\Exercise3.exe
